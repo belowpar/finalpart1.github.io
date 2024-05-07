@@ -1,0 +1,13 @@
+#list {
+    flex-wrap: wrap;
+    display: flex;
+    width: 75%;
+    float: right;
+}
+li {
+    margin: 3px;
+}
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
